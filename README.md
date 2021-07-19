@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv test task
+https://mirinbrah.github.io/rsschool-cv/cv

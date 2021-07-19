@@ -1,6 +1,6 @@
 #My CV for Rs-School
 
-##You can contact me through [my github](https://github.com/mirinbrah)
+##You can contact me through [my Github page](https://github.com/mirinbrah)
 
 ##My name is Michail Ryabchikov.
 
